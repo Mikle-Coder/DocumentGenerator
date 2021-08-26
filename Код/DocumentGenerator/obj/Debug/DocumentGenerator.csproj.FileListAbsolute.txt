@@ -1,0 +1,22 @@
+C:\Users\МиКа\source\repos\DocumentGenerator\DocumentGenerator\bin\Debug\DocumentGenerator.exe.config
+C:\Users\МиКа\source\repos\DocumentGenerator\DocumentGenerator\bin\Debug\DocumentGenerator.exe
+C:\Users\МиКа\source\repos\DocumentGenerator\DocumentGenerator\bin\Debug\DocumentGenerator.pdb
+C:\Users\МиКа\source\repos\DocumentGenerator\DocumentGenerator\obj\Debug\DocumentGenerator.csproj.AssemblyReference.cache
+C:\Users\МиКа\source\repos\DocumentGenerator\DocumentGenerator\obj\Debug\DocumentGenerator.Properties.Resources.resources
+C:\Users\МиКа\source\repos\DocumentGenerator\DocumentGenerator\obj\Debug\DocumentGenerator.csproj.GenerateResource.cache
+C:\Users\МиКа\source\repos\DocumentGenerator\DocumentGenerator\obj\Debug\DocumentGenerator.csproj.CoreCompileInputs.cache
+C:\Users\МиКа\source\repos\DocumentGenerator\DocumentGenerator\obj\Debug\DocumentGenerator.exe
+C:\Users\МиКа\source\repos\DocumentGenerator\DocumentGenerator\obj\Debug\DocumentGenerator.pdb
+C:\Users\МиКа\source\repos\DocumentGenerator\DocumentGenerator\obj\Debug\DocumentGenerator.csproj.ResolveComReference.cache
+C:\Users\МиКа\source\repos\DocumentGenerator\DocumentGenerator\obj\Debug\DocumentGenerator.fff.resources
+D:\Рабочий стол\Генератор Актов\Код\DocumentGenerator\bin\Debug\DocumentGenerator.exe.config
+D:\Рабочий стол\Генератор Актов\Код\DocumentGenerator\bin\Debug\DocumentGenerator.exe
+D:\Рабочий стол\Генератор Актов\Код\DocumentGenerator\bin\Debug\DocumentGenerator.pdb
+D:\Рабочий стол\Генератор Актов\Код\DocumentGenerator\obj\Debug\DocumentGenerator.csproj.AssemblyReference.cache
+D:\Рабочий стол\Генератор Актов\Код\DocumentGenerator\obj\Debug\DocumentGenerator.csproj.ResolveComReference.cache
+D:\Рабочий стол\Генератор Актов\Код\DocumentGenerator\obj\Debug\DocumentGenerator.Properties.Resources.resources
+D:\Рабочий стол\Генератор Актов\Код\DocumentGenerator\obj\Debug\DocumentGenerator.csproj.GenerateResource.cache
+D:\Рабочий стол\Генератор Актов\Код\DocumentGenerator\obj\Debug\DocumentGenerator.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Генератор Актов\Код\DocumentGenerator\obj\Debug\DocumentGenerator.exe
+D:\Рабочий стол\Генератор Актов\Код\DocumentGenerator\obj\Debug\DocumentGenerator.pdb
+D:\Рабочий стол\Генератор Актов\Код\DocumentGenerator\obj\Debug\DocumentGenerator.Program1.resources
